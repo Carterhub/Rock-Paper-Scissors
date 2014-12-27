@@ -60,7 +60,7 @@ int main()
 		else if(compSel == 2) //Scissors
 			cout << "You played Rock and the computer played Paper. Rock is covered by Paper. You lose.\n";
 		else
-			cout <<"You played Rock and the computer played Scissors. Rock rapes Scissors. You win.\n";
+			cout <<"You played Rock and the computer played Scissors. Rock beats Scissors. You win.\n";
 	}
 	else if(ourSel == 2) //Paper
 	{
